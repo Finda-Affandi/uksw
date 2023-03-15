@@ -11,10 +11,10 @@ fun HomeScreen(name: String) {
     Text(text = "Hello $name!")
 }
 
-@Preview(showBackground = true)
-@Composable
-fun DefaultPreview() {
-    PAMAcitivityIntentTheme {
-        Greeting("Android")
-    }
-}
+//@Preview(showBackground = true)
+//@Composable
+//fun DefaultPreview() {
+//    PAMAcitivityIntentTheme {
+//        Greeting("Android")
+//    }
+//}
